@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+*
+
+# But not these files...
+!.gitignore
+!lambda_function.py
+!requirements.txt
